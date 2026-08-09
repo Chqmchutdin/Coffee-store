@@ -58,7 +58,6 @@
 - Notification Management
 - Shopping Cart
 - Delivery Management
-- Promotion & Discount Management
 - Notification Management
 - Report Management
 
@@ -83,9 +82,6 @@
 - Order must be confirmed before order is processed
 - Order must be cancelled before order is processed
 - Order must be refunded before order is processed
-- Delivery fee is calculated from distance
-- Discount is applied before tax
-- Tax is calculated from order total
 - Order status must follow the defined order workflow
 
 # Constraints - ข้อจำกัด
@@ -109,4 +105,3 @@
 - Data Management
 - Accounting & Financial Management
 - Production Management
-- 
