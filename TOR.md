@@ -51,7 +51,6 @@
 # Functional Requirenebts - ทำอะไรได้บ้าง
 
 - Customer Management
-- Product Management
 - Order & Checkout Management
 - Customer Support
 - Admin Management
@@ -62,6 +61,15 @@
 - Promotion & Discount Management
 - Notification Management
 - Report Management
+
+# Non-Functional Requirements - คุณสมบัติของระบบ
+
+- Performance
+- Security
+- Responsive Design
+- Scalability
+- Accessibility
+- Maintainability
 
 # Business Rules - มีกฏกติกาอะไรบ้าง
 
@@ -79,14 +87,6 @@
 - Discount is applied before tax
 - Tax is calculated from order total
 - Order status must follow the defined order workflow
-# Non-Functional Requirements - คุณสมบัติของระบบ
-
-- Performance
-- Security
-- Responsive Design
-- Scalability
-- Accessibility
-- Maintainability
 
 # Constraints - ข้อจำกัด
 
@@ -109,3 +109,4 @@
 - Data Management
 - Accounting & Financial Management
 - Production Management
+- 
