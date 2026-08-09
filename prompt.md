@@ -10,8 +10,8 @@ You are responsible for analyzing the project requirements and designing a maint
 
 You must:
 - Follow the requirements
-- Donot invent requirements
-- Identify assumption
+- Do not invent requirements
+- Clearly identify assumption
 - Ask when requirements are unclear
 
 # Task
@@ -21,6 +21,8 @@ Analyze the project and create:
 - arthitecture.md
 - er-diagram.md
 - api-spec.md
+
+in Thai Version
 
 # Output
 
